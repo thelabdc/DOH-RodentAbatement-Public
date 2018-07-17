@@ -1,0 +1,10 @@
+geopandas
+jupyter
+matplotlib
+mplleaflet
+pandas
+numpy
+scikit-learn
+scipy
+seaborn
+pyyaml
